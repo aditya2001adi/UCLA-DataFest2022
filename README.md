@@ -14,4 +14,4 @@ My teammate and I were interested in how different players might play the game d
 
 Using logistic regression, we found that players who played the game quickly were more likely to make more mistakes than the average player. Some of this may be intuitive; students who play more quickly may not engage with the question thoroughly, or may simply be trying to rush through the game. However, it could also be possible that students who play quickly may simply have a better understanding of the game and the questions. Our findings seem to confirm the former; students who played the game quickly were more prone to making more mistakes than the average student. 
 
-After being selected as finalists, my teammate and I were awarded an Honorable Mention for Best Use of Statistical Modeling for our work. 
+After being selected as finalists, my teammate and I were awarded an Honorable Mention for Best Use of Statistical Modeling for our work. Our team's final presentation can be found in this repository.
